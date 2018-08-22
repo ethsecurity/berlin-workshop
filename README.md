@@ -15,3 +15,4 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
 * [Report on auditors from SolidStamp](https://www.solidstamp.com/blog/solidstamp-smart-contract-auditor-report-july-2018)
 * [Raw data on the above report](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTn_LUFpamtKNnFOqzA-2LfNPKqivw73VS4o7arnTUFShCuPZ0pr8j-QIqP9JkwD67t6_icDWXvn3rs/pubhtml)
 * [Consensys dev tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
+* [Web 3 Foundation web3 tech stack](https://github.com/w3f/Web3-wiki/wiki)
