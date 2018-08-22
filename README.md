@@ -11,3 +11,4 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
 ## Resources
 
 * [Manticore](https://github.com/trailofbits/manticore)
+* [Public audit list](https://docs.google.com/spreadsheets/d/1UDni6Dy_xE7MD5pcTptk7mGlgyarueLQYHZisofz4AM/edit?usp=sharing)
