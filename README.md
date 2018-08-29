@@ -32,6 +32,24 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
  ## Tooling 
  * [Mythril](https://github.com/ConsenSys/mythril)
  * [Oyenty](https://github.com/melonproject/oyente)
+ 
+ ## Presentations
+ * Introduction to Ethereum - Alex Fisher
+   * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
+   * [Video](https://youtu.be/7WyIms8YDVo)  
+   
+ * Smart Contract and Dapp Security - ETHDenver
+   * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
+   * [Video](https://www.youtube.com/watch?v=3oWqQll1KIY)
+   
+ * Security Overview - Martin Swende
+   * Slides
+   * [Video](https://www.youtube.com/watch?v=qGYki6KYTs8)
+   
+ * Cryptoeconomic Protocols - Vitalik
+   * [Slides](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society)
+   * [Video](https://youtu.be/S47iWiKKvLA)
+   
 
  ## Risk Associated Questions to Consider when Deploying New Contracts to Mainnet
 
