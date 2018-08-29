@@ -36,7 +36,12 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
  ## Presentations
  * Introduction to Ethereum
    * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
-   * [Video](https://youtu.be/7WyIms8YDVo) 
+   * [Video](https://youtu.be/7WyIms8YDVo)  
+   
+ * Smart Contract and Dapp Security
+   * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
+   * [Video](https://www.youtube.com/watch?v=3oWqQll1KIY)
+   
 
  ## Risk Associated Questions to Consider when Deploying New Contracts to Mainnet
 
