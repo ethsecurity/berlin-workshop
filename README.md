@@ -32,6 +32,11 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
  ## Tooling 
  * [Mythril](https://github.com/ConsenSys/mythril)
  * [Oyenty](https://github.com/melonproject/oyente)
+ 
+ ## Presentations
+ * Introduction to Ethereum
+   * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
+   * [Video](https://youtu.be/7WyIms8YDVo) 
 
  ## Risk Associated Questions to Consider when Deploying New Contracts to Mainnet
 
