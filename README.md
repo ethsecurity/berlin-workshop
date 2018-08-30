@@ -60,6 +60,10 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
    * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeMzk1aVdTd1dXYU9SRFdycG5Md1lxLUlvRVl3/view?usp=sharing)
    * [Video](https://www.youtube.com/watch?v=xl06E2kwi-U)
    
+ * Smashing Smart Contracts for Fun - Bernhard
+   * [Slides](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)
+   * [Video](https://www.youtube.com/watch?v=NJ9StJThxZY)
+   
 
  ## Risk Associated Questions to Consider when Deploying New Contracts to Mainnet
 
