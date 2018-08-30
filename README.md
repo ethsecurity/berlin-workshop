@@ -30,10 +30,11 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
   * [Not So Smart Contracts: Examples of Solidity security issues](https://github.com/trailofbits/not-so-smart-contracts)
 * [Piper's dev tactical manual for python projects](https://github.com/pipermerriam/ethereum-dev-tactical-manual)
 * [Go ethereum dev guide](https://github.com/ethereum/go-ethereum/wiki/Developers'-Guide)
- 
+* [Ethereum Vulnerability Analyzer Benchmark Reports](https://ethereumanalysisbenchmarks.github.io/
+)
  ## Tooling 
  * [Mythril](https://github.com/ConsenSys/mythril)
- * [Oyenty](https://github.com/melonproject/oyente)
+ * [Oyente](https://github.com/melonproject/oyente)
  
  ## Presentations
  * Introduction to Ethereum - Alex Fisher
