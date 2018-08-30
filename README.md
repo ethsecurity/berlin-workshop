@@ -45,12 +45,20 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
    * [Video](https://www.youtube.com/watch?v=3oWqQll1KIY)
    
  * Security Overview - Martin Swende
-   * Slides
+   * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeSkdXc1ZuSFE2YWYwamhRc2ZBRjB3ZkladVRN/view?usp=sharing)
    * [Video](https://www.youtube.com/watch?v=qGYki6KYTs8)
    
  * Cryptoeconomic Protocols - Vitalik
    * [Slides](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society)
    * [Video](https://youtu.be/S47iWiKKvLA)
+   
+ * One Year of Eth Security - Martin
+   * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeel9EVGJVd2xjNUxfZkllTEFkMUdHY2ltQ2dZ/view?usp=sharing)
+   * [Video](https://www.youtube.com/watch?v=nyMuBUgf8fQ)
+   
+ * The Shanghai Attacks - Martin
+   * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeMzk1aVdTd1dXYU9SRFdycG5Md1lxLUlvRVl3/view?usp=sharing)
+   * [Video](https://www.youtube.com/watch?v=xl06E2kwi-U)
    
 
  ## Risk Associated Questions to Consider when Deploying New Contracts to Mainnet
