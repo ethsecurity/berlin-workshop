@@ -28,7 +28,8 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
   * [pyevmasm: Pythonic EVM Assembler/Disassembler](https://github.com/trailofbits/pyevmasm)
   * [Echidna: Ethereum fuzz testing framework](https://github.com/trailofbits/echidna)
   * [Not So Smart Contracts: Examples of Solidity security issues](https://github.com/trailofbits/not-so-smart-contracts)
-
+* [Ethereum Vulnerability Analyzer Benchmark Reports](https://ethereumanalysisbenchmarks.github.io/
+)
  ## Tooling 
  * [Mythril](https://github.com/ConsenSys/mythril)
  * [Oyenty](https://github.com/melonproject/oyente)
