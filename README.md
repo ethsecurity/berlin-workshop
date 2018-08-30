@@ -28,11 +28,47 @@ Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at t
   * [pyevmasm: Pythonic EVM Assembler/Disassembler](https://github.com/trailofbits/pyevmasm)
   * [Echidna: Ethereum fuzz testing framework](https://github.com/trailofbits/echidna)
   * [Not So Smart Contracts: Examples of Solidity security issues](https://github.com/trailofbits/not-so-smart-contracts)
+<<<<<<< HEAD
 * [Ethereum Vulnerability Analyzer Benchmark Reports](https://ethereumanalysisbenchmarks.github.io/
 )
+=======
+* [Piper's dev tactical manual for python projects](https://github.com/pipermerriam/ethereum-dev-tactical-manual)
+* [Go ethereum dev guide](https://github.com/ethereum/go-ethereum/wiki/Developers'-Guide)
+ 
+>>>>>>> upstream/master
  ## Tooling 
  * [Mythril](https://github.com/ConsenSys/mythril)
  * [Oyenty](https://github.com/melonproject/oyente)
+ 
+ ## Presentations
+ * Introduction to Ethereum - Alex Fisher
+   * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
+   * [Video](https://youtu.be/7WyIms8YDVo)  
+   
+ * Smart Contract and Dapp Security - ETHDenver
+   * [Slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)
+   * [Video](https://www.youtube.com/watch?v=3oWqQll1KIY)
+   
+ * Security Overview - Martin Swende
+   * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeSkdXc1ZuSFE2YWYwamhRc2ZBRjB3ZkladVRN/view?usp=sharing)
+   * [Video](https://www.youtube.com/watch?v=qGYki6KYTs8)
+   
+ * Cryptoeconomic Protocols - Vitalik
+   * [Slides](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society)
+   * [Video](https://youtu.be/S47iWiKKvLA)
+   
+ * One Year of Eth Security - Martin
+   * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeel9EVGJVd2xjNUxfZkllTEFkMUdHY2ltQ2dZ/view?usp=sharing)
+   * [Video](https://www.youtube.com/watch?v=nyMuBUgf8fQ)
+   
+ * The Shanghai Attacks - Martin
+   * [Slides](https://drive.google.com/file/d/0B69CiKIMgsyeMzk1aVdTd1dXYU9SRFdycG5Md1lxLUlvRVl3/view?usp=sharing)
+   * [Video](https://www.youtube.com/watch?v=xl06E2kwi-U)
+   
+ * Smashing Smart Contracts for Fun - Bernhard
+   * [Slides](https://github.com/b-mueller/smashing-smart-contracts/blob/master/smashing-smart-contracts-1of1.pdf)
+   * [Video](https://www.youtube.com/watch?v=NJ9StJThxZY)
+   
 
  ## Risk Associated Questions to Consider when Deploying New Contracts to Mainnet
 
