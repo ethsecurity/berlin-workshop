@@ -7,7 +7,8 @@ It's time we organized the relevant information into gitbook (could change if th
 
 ### Proposed Tasks   
 
-- [ ] Decide on which delivery platform to use
+- [x] Decide on which delivery platform to use   
+  * We decided on gitbook for delivery.   
 - [ ] Decide on front page data and layout
 - [ ] Decide on how to divide into sections
 - [ ] Decide on data and layout of sections
