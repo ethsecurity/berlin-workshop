@@ -44,9 +44,6 @@ As we design and develop this website, we should note the following.
 
   On this initial pass, we should simply make decisions on initial content and worry about how we have full inclusion, decide on legitimate content, and maintain over the long term after we have something. From there, the repo should encourage everyone to open issues and make PR's for updates. Once we have tangible movement and the problem of possible spam, then we figure out how to best handle it. If any of this is not agreeable, please submit a pr to change/remove or, if you have access, change/remove this proposal.
 
-## Workshop Info
-Security Resources Workshop is scheduled at 1500 on Thursday, September 6th at the ETHSecurity Unconference
-
 ## Resources
 
 * [Public audit list](https://docs.google.com/spreadsheets/d/1UDni6Dy_xE7MD5pcTptk7mGlgyarueLQYHZisofz4AM/edit?usp=sharing)
